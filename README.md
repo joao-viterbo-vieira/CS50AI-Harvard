@@ -1,4 +1,4 @@
-# CS50AI - Harvard University
+# CS50AI - Introduction to Artificial Intelligence with Python
 
 This repository contains my solutions to projects from Harvard University's CS50's Introduction to Artificial Intelligence with Python course. The course explores modern AI concepts and implementations, from search algorithms to neural networks and large language models. 
 
