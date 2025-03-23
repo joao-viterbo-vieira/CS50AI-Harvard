@@ -1,4 +1,4 @@
-# CS50AI - Introduction to Artificial Intelligence with Python
+# CS50AI - Harvard University
 
 This repository contains my solutions to projects from Harvard University's CS50's Introduction to Artificial Intelligence with Python course. The course explores modern AI concepts and implementations, from search algorithms to neural networks and large language models. 
 
@@ -10,7 +10,6 @@ I have successfully completed Harvard University's CS50's Introduction to Artifi
 
 ![CS50 AI Certificate](CS50AI_Certificate.png)
 
-*Note: To view the certificate, please open the PDF file in a PDF viewer. GitHub may not display the PDF preview directly in the repository view.*
 
 
 ## Course Overview
